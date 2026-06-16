@@ -6,4 +6,5 @@ int validar_caractere(char c) {
         return 1; // Válido
     }
     return 0; // Inválido
+    printf( feito por kaue alexandre)
 }
