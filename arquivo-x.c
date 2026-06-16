@@ -57,4 +57,5 @@ int main(int argc, char *argv[]) {
     printf("Arquivo '%s' gerado com sucesso!\n", nome_arquivo);
 
     return 0;
+    printf( feito por kaue alexandre)
 }
